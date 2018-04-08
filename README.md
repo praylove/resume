@@ -16,7 +16,7 @@
 >6.英语四级。
 
 ## 项目经历
-**2018.3-2018.04	商城后台管理系统**  
+**2018.3-2018.04	[商城后台管理系统](https://github.com/praylove/Tmall-ssm)**  
 > 该商场后台管理系统主要包括产品管理、用户管理和订单管理三大模块，均采用Spring框架，表示层采用了MVC架构，使用的 ace-master 模板及jsp技术作为视图，使用Spring MVC作为控制器并实现了REST风格请求，数据库为Mysql, ORM层使用了Mybatis框架, 数据转换使用了Dozer, 服务器采用的tomcat。本项目在完成过程中使用了Spring test进行单元测试。 
 
 ## 作品展示
