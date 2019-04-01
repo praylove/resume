@@ -1,24 +1,29 @@
+## 个人信息
+* 姓名：谢帅
+* 邮箱：936867773@qq.com
+* 联系电话：15283897229
+* 工作年限：1年
+* 期望职位： java工程师
+* 教育背景：四川理工学院电子信息工程（本科）
+* 证书：大学英语四级
 
-# 谢帅
-**电话：15283897229**
+## 技能清单
+1. 熟悉java和面向对象编程，熟悉多线程编程  
+2. 熟悉各种开源的框架，如Spring/Spring MVC/Spring boot/SpringCloud/Mybatis/等
+3. 熟悉web前端技术，如bootstrap、Vue等
+4. 熟悉关系型数据库设计及SQL
+5. 熟悉unix/linux操作系统
+6. 了解NoSQL数据库和SpringCloud分布式框架
+## 工作经历
 
-**邮箱： x_sherl@163.com**
+### 成都环赛信息技术（2018年3月~现在）
 
-## 教育背景
-> 2014-2018 四川理工学院 电子信息工程(本科)
+#### CAIP-计算机辅助机电创新设计系统
+* 使用技术： vue、element-ui
+* 项目简介：本项目是与四川大学合作开发，旨在辅助机电一体化专业相关人员进行创新设计。在系统设计不仅提供创新思路和知识查询，大大简化了设计过程，而且提供多人在线合作创新设计，解决了传统创新团队沟通困难的问题。
+* 工作职责：我主要负责实现系统参数页面和鱼骨设计页面。
+#### 智慧楼宇
+* 使用技术： Springboot、shiro、Mybatis、MySQL
+* 项目简介：本项目是与海康威视合作开发，目的是使小区业主和物业可以通过网络完成传统小区需要上门完成的事情，大大方便了小区业主的生活和物业的管理。
+* 工作职责：我在项目中实现了物联网设备管理、物业员工管理等功能。
 
-## 专业技能
-> 1.熟练的使用Java语言进行面向对象程序设计，有良好的编程习惯，熟悉常用的Java API。  
->2.熟悉基于JSP和Servlet的Java Web开发，对Servlet和JSP的工作原理和生命周期有深入了解，熟练的使用JSTL和EL编写无脚本动态页面，有使用监听器、过滤器等Web组件以及MVC架构模式进行Java Web项目开发的经验。  
->3.熟悉Spring MVC和Struts2等框架。  
->4.熟练的使用Hibernate、MyBatis等ORM框架。  
->5.熟练的使用HTML、CSS和JavaScript进行Web前端开发，熟悉jQuery和Bootstrap，熟悉Ajax技术在Web项目中的应用。  
->6.英语四级。
-
-## 项目经历
-**2018.3-2018.04	[商城后台管理系统](https://github.com/praylove/Tmall-ssm)**  
-> 该商场后台管理系统主要包括产品管理、用户管理和订单管理三大模块，均采用Spring框架，表示层采用了MVC架构，使用的 ace-master 模板及jsp技术作为视图，使用Spring MVC作为控制器并实现了REST风格请求，数据库为Mysql, ORM层使用了Mybatis框架, 数据转换使用了Dozer, 服务器采用的tomcat。本项目在完成过程中使用了Spring test进行单元测试。 
-
-## 作品展示
-> 1.[基于SSM的天猫商城项目](https://github.com/praylove/Tmall-ssm)  
-> 2.[JavaEE的天猫商城项目](https://github.com/praylove/tmall-Javaee)
